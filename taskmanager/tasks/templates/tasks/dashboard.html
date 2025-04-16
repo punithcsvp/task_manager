@@ -1,0 +1,31 @@
+{% extends 'tasks/base.html' %}
+
+{% block content %}
+<h2>Dashboard</h2>
+<div class="row">
+    <div class="col-md-4">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Total Tasks</h5>
+                <p class="card-text fs-3">{{ total_tasks }}</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Completed Tasks</h5>
+                <p class="card-text fs-3">{{ completed_tasks }}</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title">Pending Tasks</h5>
+                <p class="card-text fs-3">{{ pending_tasks }}</p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

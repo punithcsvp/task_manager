@@ -1,0 +1,48 @@
+{% extends 'tasks/base.html' %}
+
+{% block content %}
+<h2>Your Tasks</h2>
+
+<form method="get" class="mb-3">
+    <input type="text" name="search" placeholder="Search by title" value="{{ request.GET.search }}">
+    <select name="status">
+        <option value="">All</option>
+        <option value="completed">Completed</option>
+        <option value="pending">Pending</option>
+    </select>
+    <select name="category">
+        <option value="">All Categories</option>
+        {% for cat in categories %}
+            <option value="{{ cat.name }}" {% if request.GET.category == cat.name %}selected{% endif %}>{{ cat.name }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit" class="btn btn-info">Filter</button>
+</form>
+
+<a href="/create/" class="btn btn-primary mb-3">Add Task</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for task in tasks %}
+        <tr>
+            <td>{{ task.title }}</td>
+            <td>{{ task.category }}</td>
+            <td>{{ task.completed|yesno:"Completed,Pending" }}</td>
+            <td>
+                <a href="{% url 'view_task' task.id %}" class="btn btn-sm btn-info">View</a>
+                <a href="{% url 'update_task' task.id %}" class="btn btn-sm btn-warning">Edit</a>
+                <a href="{% url 'delete_task' task.id %}" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
