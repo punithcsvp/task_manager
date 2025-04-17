@@ -29,3 +29,12 @@ A simple task manager web application built with Django, SQLite3, HTML, and CSS.
    ```bash
    git clone https://github.com/your-username/task-manager.git
    cd task-manager
+
+## Create a virtual environment (optional but recommended):
+
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
