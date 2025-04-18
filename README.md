@@ -101,7 +101,7 @@ indpro-task-manager/
 ![6](https://github.com/user-attachments/assets/21159f10-c492-47d5-8e9b-87876e0f4072)
 
 
-📌 Assumptions Made During Development
+## Assumptions Made During Development
 - The system assumes that users must be authenticated to manage tasks (create, edit, delete).
 
 - The front-end design is built using Bootstrap 5 and custom CSS for simplicity and responsiveness.
@@ -111,7 +111,7 @@ indpro-task-manager/
 - The database used is SQLite for development purposes (easily portable and simple to set up).
 
 ---
-💻 List of Technologies / Libraries Used
+## List of Technologies / Libraries Used
 ## Backend:
 - Python 3
 
