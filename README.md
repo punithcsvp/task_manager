@@ -11,6 +11,7 @@ A clean, modern Django-based Task Manager application with authentication, dashb
 
 ## Prerequest :
 Install python and set path in your envirnoment variables
+
 Python installation :( https://www.python.org )
 
 ##  PROJECT SETUP
