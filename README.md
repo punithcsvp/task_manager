@@ -104,11 +104,11 @@ indpro-task-manager/
 ## Assumptions Made During Development
 - The system assumes that users must be authenticated to manage tasks (create, edit, delete).
 
-- The front-end design is built using Bootstrap 5 and custom CSS for simplicity and responsiveness.
+- The front-end design is built using Html , css, Bootstrap 5 and custom CSS for simplicity and responsiveness.
 
 - Static files are served locally during development without a CDN.
 
-- The database used is SQLite for development purposes (easily portable and simple to set up).
+- The database used is SQLite3 for development purposes (easily portable and simple to set up).
 
 ---
 ## List of Technologies / Libraries Used
@@ -128,7 +128,7 @@ indpro-task-manager/
 - Custom CSS
 
 ## Tools:
-- SQLite (for database)
+- SQLite3 (for database)
 
 - Virtual Environment (venv)
 
