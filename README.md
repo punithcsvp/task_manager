@@ -18,7 +18,7 @@ Follow these steps to set up the project :
  - git clone [ https://github.com/punithcsvp/task_manager.git ]
  - cd taskmanager
 
-### 2️⃣ Create a Virtual Environmen
+### 2️⃣ Create a Virtual Environment
 
 **Windows :**
 
@@ -68,22 +68,22 @@ indpro-task-manager/
 
 
 ## 📸 Screenshots
- ## 1.LOGIN PAGE 
+ ## 1. LOGIN PAGE 
 ![1](https://github.com/user-attachments/assets/49d8a9e8-0590-4165-9b8d-515b99f6a950)
 
-## 2.SignUp page
+## 2. SignUp page
 ![2](https://github.com/user-attachments/assets/ddd5ba72-1848-4cdb-b220-e630e532ff95)
 
-## 3.Task Page
+## 3. Task Page
 ![3](https://github.com/user-attachments/assets/80921cec-bb2e-4c20-98c8-a96b25c05744)
 
-## 4.Create task
+## 4. Create task
 ![4](https://github.com/user-attachments/assets/243a78cd-9f16-46a6-85d2-6488d2b7c626)
 
-## 5.Dashboard
+## 5. Dashboard
 ![5](https://github.com/user-attachments/assets/255739b5-d1ce-4b1c-8151-3fc17e62cd21)
 
-## 6.Admin Page
+## 6. Admin Page
 ![6](https://github.com/user-attachments/assets/21159f10-c492-47d5-8e9b-87876e0f4072)
 
 
