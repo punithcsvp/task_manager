@@ -19,14 +19,14 @@ Python installation :( https://www.python.org )
 Follow these steps to set up the project :
 
 ### 1️⃣ Clone the Repository
- -> Go to your command Prompt :
+ ## Go to your command Prompt :
  
    - Run the commands
  ```bash
  git clone [ https://github.com/punithcsvp/task_manager.git ]
  ```
 ```bash
- - cd taskmanager
+ cd taskmanager
 ```
 ### 2️⃣ Create a Virtual Environment
 
@@ -34,7 +34,7 @@ Follow these steps to set up the project :
 
 ```bash
  python -m venv myenv
-   myenv\Scripts\activate
+ myenv\Scripts\activate
 ```
 **macOS / Linux :**
 
