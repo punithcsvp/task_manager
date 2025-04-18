@@ -92,10 +92,6 @@ taskmanager/
 ├── db.sqlite3
 └── manage.py
 
-## 📂 Program Structure
-
-![Program Structure](path_to_image.png)
-
 
 ---
 
