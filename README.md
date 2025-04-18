@@ -2,7 +2,6 @@
 
 A clean, modern Django-based Task Manager application with authentication, dashboards, and task management features , and CRUD operations.
 
-<!-- Uploading "Screenbits 2025-04-18_112147.mp4"... -->
 ##  Features
 
 - User Signup / Login / Logout .
@@ -105,7 +104,7 @@ taskmanager/
 
 
 ---
-
+## Need a project demo? u got it! 
 
 ## 3. Screenshots
  ## 1. LOGIN PAGE 
