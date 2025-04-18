@@ -22,7 +22,7 @@ Follow these steps to set up the project :
  -> Go to your command Prompt :
  
     ## Run the commands
- '''bash
+ ```bash
  git clone [ https://github.com/punithcsvp/task_manager.git ]
  - cd taskmanager
 
