@@ -6,7 +6,7 @@ from django.contrib.auth.models import User
 class TaskForm(forms.ModelForm):
     class Meta:
         model = Task
-        fields = ['title', 'description', 'category', 'priority', 'completed',]  # Make sure 'priority' is included
+        fields = ['title', 'description', 'category', 'priority', 'completed',] 
 
 class SignUpForm(UserCreationForm):
     class Meta:
