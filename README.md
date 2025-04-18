@@ -1,102 +1,103 @@
-# ✅ Task Manager (Django)
+# INDPRO Task Manager
 
-A simple web-based Task Manager built with **Django**, **SQLite3**, and **HTML/CSS**. This app allows users to create, update, and delete tasks through a clean and responsive UI.
+A clean, modern Django-based Task Manager application with authentication, dashboards, and task management features , and CRUD operations.
 
----
+##  Features
 
-## 🚀 Features
+- User Signup / Login / Logout
+- Task creation , Read , editing , and deletion
+- Dashboard overview
+- Beautiful, responsive UI with Html , Bootstrap 5 and custom styles
+- 
 
-- 📌 Add, edit, and delete tasks
-- ✅ Mark tasks as completed or pending
-- 📅 Sort and view task lists
-- 🎨 Clean and responsive UI using HTML & CSS
+##  PROJECT SETUP
 
----
+Follow these steps to set up the project :
 
-## 🛠️ Tech Stack
+### 1️⃣ Clone the Repository
 
-- **Backend:** Django (Python)
-- **Frontend:** HTML5, CSS3 (with Django templates)
-- **Database:** SQLite3
+git clone https://github.com/yourusername/indpro-task-manager.git
+cd indpro-task-manager
 
----
+### 2️⃣ Create a Virtual Environment
 
-## 📁 Project Structure
+**Windows:**
 
-taskmanager/
-├── manage.py  
-├── db.sqlite3  
-├── myvenv/                # Virtual environment  
-├── taskmanager/           # Project settings  
-│   ├── __init__.py  
-│   ├── settings.py  
-│   ├── urls.py  
-│   └── wsgi.py  
-├── tasks/                 # App  
-│   ├── migrations/  
-│   ├── models.py  
-│   ├── views.py  
-│   ├── urls.py  
-│   ├── templates/  
-│   │   └── tasks/  
-│   │       └── *.html  
-│   ├── static/  
-│   │   └── css/  
-│   │       └── *.css  
+python -m venv env
+env\Scripts\activate
 
----
+**macOS / Linux:**
 
-## ⚙️ Getting Started
+python3 -m venv env
+source env/bin/activate
 
-### 1. Clone the Repository
-
-git clone https://github.com/your-username/task-manager.git  
-cd task-manager
-
-### 2. Create a Virtual Environment
-
-python -m venv myvenv  
-source myvenv/bin/activate  # Windows: myvenv\Scripts\activate
-
-### 3. Install Dependencies
+### 3️⃣ Install Dependencies
 
 pip install -r requirements.txt
 
-### 4. Run Migrations
+> If you don't have a `requirements.txt`, you can create one:
+pip freeze > requirements.txt
+
+### 4️⃣ Apply Migrations
 
 python manage.py migrate
 
-### 5. Start the Server
+### 5️⃣ Run the Development Server
 
 python manage.py runserver
 
-Visit `http://127.0.0.1:8000` in your browser to use the app.
+Open your browser and visit http://127.0.0.1:8000/ 🎉
+
+---
+
+## 📂 Project Structure
+
+indpro-task-manager/
+├── manage.py
+├── requirements.txt
+├── README.md
+├── db.sqlite3
+├── tasks/
+│   ├── migrations/
+│   ├── static/
+│   ├── templates/
+│   ├── models.py
+│   ├── views.py
+│   ├── urls.py
+│   └── ...
+├── indpro_task_manager/
+│   ├── settings.py
+│   ├── urls.py
+│   └── ...
+└── ...
+
+---
+
+## 🔐 Environment Variables (Optional)
+
+If needed, create a `.env` file for secret keys and settings:
+
+SECRET_KEY=your-secret-key
+DEBUG=True
+
+You can load these using `python-decouple` or similar packages.
 
 ---
 
 ## 📸 Screenshots
 
-> _Add screenshots here if available (drag and drop into your README on GitHub)_
+*(Add screenshots of your login page, dashboard, and task list here)*
 
 ---
 
-## 🧾 Requirements
+## 📃 License
 
-Django>=3.2
-
-You can regenerate it anytime using:
-
-pip freeze > requirements.txt
+This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## 👩‍💻 Author
 
-- **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+Your Name  
+https://github.com/yourusername
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
