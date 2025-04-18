@@ -37,7 +37,7 @@ once the virtual envirnoment is activated ,run this command
 
 ###  4️⃣ Run the Development Server
 
-- python manage.py runserver
+-python manage.py runserver
 
 Open your browser and visit http://127.0.0.1:8000/ 🎉
 
