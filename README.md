@@ -68,37 +68,38 @@ Open your browser and visit http://127.0.0.1:8000/ 🎉
 ## 2. Project Structure
 
 taskmanager/
+├── demo.gif              
 ├── taskmanager/
 │   ├── __init__.py
 │   ├── asgi.py
 │   ├── settings.py
 │   ├── urls.py
-│   └── wsgi.py
-│
-├── tasks/
-│   ├── migrations/
-│   ├── static/
-│   │   └── css/
-│   │       └── styles.css
-│   ├── templates/
-│   │   ├── tasks/
-│   │   │   ├── base.html
-│   │   │   ├── dashboard.html
-│   │   │   ├── login.html
-│   │   │   ├── signup.html
-│   │   │   ├── task_form.html
-│   │   │   ├── task_list.html
-│   │   │   └── view_task.html
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-│
+│   ├── wsgi.py
+│   ├── tasks/
+│   │   ├── __init__.py
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── migrations/
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   ├── urls.py
+│   │   ├── views.py
+│   │   ├── static/
+│   │   │   └── css/
+│   │   │       └── styles.css
+│   │   ├── templates/
+│   │       └── tasks/
+│   │           ├── base.html
+│   │           ├── dashboard.html
+│   │           ├── login.html
+│   │           ├── signup.html
+│   │           ├── task_form.html
+│   │           ├── task_list.html
+│   │           └── view_task.html
 ├── db.sqlite3
-└── manage.py
+├── manage.py
+├── LICENSE
+└── README.md
 
 
 ---
