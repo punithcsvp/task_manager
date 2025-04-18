@@ -19,7 +19,8 @@ Python installation :( https://www.python.org )
 Follow these steps to set up the project :
 
 ### 1️⃣ Clone the Repository
-
+ -> Go to your command Prompt :
+    ## Run the commands
  - git clone [ https://github.com/punithcsvp/task_manager.git ]
  - cd taskmanager
 
