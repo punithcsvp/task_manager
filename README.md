@@ -105,7 +105,8 @@ taskmanager/
 
 ---
 ## Need the project demo? u got it! 
-https://github.com/user-attachments/assets/50bdd972-3108-44b6-bfb7-1d2a9ec6bbf4a
+https://github.com/user-attachments/assets/173f45ef-abe7-4ba5-b401-2687ce87140e
+
 
 ## 3. Screenshots
  ## 1. LOGIN PAGE 
