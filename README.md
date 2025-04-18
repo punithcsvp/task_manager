@@ -147,6 +147,28 @@ taskmanager/
 
 - Virtual Environment (venv)
 
+---
+
+## 6. Challenges Faced and How They Were Addressed
+1️⃣ Designing a Clean, Modern UI
+Challenge:
+Creating a visually appealing, user-friendly, and responsive design while keeping it simple.
+Solution:
+Used Bootstrap 5 with a customized color palette, gradients, and Google Fonts to enhance the UI/UX without adding heavy dependencies.
+
+2️⃣ User Authentication & Session Handling
+Challenge:
+Ensuring secure user authentication and managing login/logout workflows smoothly.
+Solution:
+Implemented Django's built-in User authentication system, CSRF protection, and custom login/signup pages styled to match the application’s design.
+
+3️⃣ Dynamic Layout Based on User State
+Challenge:
+Displaying different navbar options and views based on whether the user is logged in or not.
+Solution:
+Used Django template context processors and conditional rendering with {% if user.is_authenticated %} to dynamically adjust navigation and content.
+
+---
 ## 📃 License
 
 This project is licensed under the MIT License.
