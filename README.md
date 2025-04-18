@@ -2,6 +2,7 @@
 
 A clean, modern Django-based Task Manager application with authentication, dashboards, and task management features , and CRUD operations.
 
+https://github.com/user-attachments/assets/f2ebb505-4f24-4cb3-bf37-c76118ec78ac
 <!-- Uploading "Screenbits 2025-04-18_112147.mp4"... -->
 ##  Features
 
