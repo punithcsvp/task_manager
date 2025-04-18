@@ -138,8 +138,6 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👩‍💻 Author
-
-Your Name  
+##  My Github Account  
 [https://github.com/punithcsvp/]
 
