@@ -116,7 +116,7 @@ taskmanager/
 ![6](https://github.com/user-attachments/assets/21159f10-c492-47d5-8e9b-87876e0f4072)
 
 
-## Assumptions Made During Development
+## 4. Assumptions Made During Development
 - The system assumes that users must be authenticated to manage tasks (create, edit, delete).
 
 - The front-end design is built using Html , css, Bootstrap 5 and custom CSS for simplicity and responsiveness.
@@ -126,7 +126,7 @@ taskmanager/
 - The database used is SQLite3 for development purposes (easily portable and simple to set up).
 
 ---
-## 4. List of Technologies / Libraries Used
+## 5. List of Technologies / Libraries Used
 ## Backend:
 - Python 3
 
