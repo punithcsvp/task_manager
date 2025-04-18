@@ -66,9 +66,6 @@ Open your browser and visit http://127.0.0.1:8000/ 🎉
   
   https://github.com/user-attachments/assets/37fc41f2-b24c-41c4-87b7-9bca2e5233ba
 
-## Need the project demo? u got it! 
-https://github.com/user-attachments/assets/173f45ef-abe7-4ba5-b401-2687ce87140e
-
 ## 2. Project Structure
 
 taskmanager/
@@ -127,7 +124,11 @@ taskmanager/
 ## 6. Admin Page
 ![10](https://github.com/user-attachments/assets/def9c7a1-8fb5-43d0-a79d-905520d7373c)
 
+---
+## Need the project demo? u got it! 
+https://github.com/user-attachments/assets/173f45ef-abe7-4ba5-b401-2687ce87140e
 
+---
 ## 4. Assumptions Made During Development
 - The system assumes that users must be authenticated to manage tasks (create, edit, delete).
 
