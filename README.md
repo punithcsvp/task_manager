@@ -57,7 +57,7 @@ Open your browser and visit http://127.0.0.1:8000/ 🎉
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 taskmanager/
 ├── taskmanager/
@@ -96,7 +96,7 @@ taskmanager/
 ---
 
 
-## 📸 Screenshots
+##  Screenshots
  ## 1. LOGIN PAGE 
 ![1](https://github.com/user-attachments/assets/49d8a9e8-0590-4165-9b8d-515b99f6a950)
 
