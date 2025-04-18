@@ -129,6 +129,8 @@ taskmanager/
 https://github.com/user-attachments/assets/173f45ef-abe7-4ba5-b401-2687ce87140e
 
 ---
+---
+---
 ## 4. Assumptions Made During Development
 - The system assumes that users must be authenticated to manage tasks (create, edit, delete).
 
