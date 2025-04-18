@@ -5,10 +5,12 @@ A clean, modern Django-based Task Manager application with authentication, dashb
 <!-- Uploading "Screenbits 2025-04-18_112147.mp4"... -->
 ##  Features
 
-- User Signup / Login / Logout
-- Task creation , Read , editing , and deletion
-- Dashboard overview
-- Beautiful, responsive UI with Html , Bootstrap 5 and custom styles
+- User Signup / Login / Logout .
+- Task creation , Read , editing , and deletion .
+- Filter by categories , Complete/pending status , Title .
+- Adding priority to the task.
+- Dashboard overview .
+- Beautiful, responsive UI with Html , Bootstrap 5 and custom styles .
 
 ## Prerequest :
 Download and Install python and set path in your envirnoment variables
