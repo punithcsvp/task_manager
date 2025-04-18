@@ -14,7 +14,7 @@ Download and Install python and set path in your envirnoment variables
 
 Python installation :( https://www.python.org )
 
-##  PROJECT SETUP
+## 1. PROJECT SETUP
 
 Follow these steps to set up the project :
 
@@ -57,7 +57,7 @@ Open your browser and visit http://127.0.0.1:8000/ 🎉
 
 ---
 
-##  Project Structure
+## 2. Project Structure
 
 taskmanager/
 ├── taskmanager/
@@ -96,7 +96,7 @@ taskmanager/
 ---
 
 
-##  Screenshots
+## 3. Screenshots
  ## 1. LOGIN PAGE 
 ![1](https://github.com/user-attachments/assets/49d8a9e8-0590-4165-9b8d-515b99f6a950)
 
@@ -126,7 +126,7 @@ taskmanager/
 - The database used is SQLite3 for development purposes (easily portable and simple to set up).
 
 ---
-## List of Technologies / Libraries Used
+## 4. List of Technologies / Libraries Used
 ## Backend:
 - Python 3
 
