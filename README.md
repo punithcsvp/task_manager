@@ -32,7 +32,8 @@ Follow these steps to set up the project :
 
 **Windows :**
 
-```bash python -m venv myenv
+```bash
+ python -m venv myenv
    myenv\Scripts\activate
 ```
 **macOS / Linux :**
