@@ -118,6 +118,7 @@ indpro-task-manager/
 - Django 4.x
 
 ## Frontend:
+- Html/css
 - Bootstrap 5
 
 ## Font Awesome
