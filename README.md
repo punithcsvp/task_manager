@@ -63,7 +63,7 @@ Open your browser and visit http://127.0.0.1:8000/ 🎉
 ## IMPLEMENTATION VIDEO
 - Not able to run the project? No worries , heres a quick video how to implement
   
-  https://github.com/user-attachments/assets/5764e9bf-f402-40fa-8f89-af35227189e8
+  https://github.com/user-attachments/assets/37fc41f2-b24c-41c4-87b7-9bca2e5233ba
 
 ## 2. Project Structure
 
