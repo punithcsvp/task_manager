@@ -8,7 +8,6 @@ A clean, modern Django-based Task Manager application with authentication, dashb
 - Task creation , Read , editing , and deletion
 - Dashboard overview
 - Beautiful, responsive UI with Html , Bootstrap 5 and custom styles
-- 
 
 ##  PROJECT SETUP
 
@@ -17,6 +16,7 @@ Follow these steps to set up the project :
 ### 1️⃣ Clone the Repository
 
  -> git clone [ https://github.com/punithcsvp/task_manager.git ]
+
  -> cd taskmanager
 
 ### 2️⃣ Create a Virtual Environment
