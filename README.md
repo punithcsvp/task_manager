@@ -66,6 +66,9 @@ Open your browser and visit http://127.0.0.1:8000/ 🎉
   
   https://github.com/user-attachments/assets/37fc41f2-b24c-41c4-87b7-9bca2e5233ba
 
+## Need the project demo? u got it! 
+https://github.com/user-attachments/assets/173f45ef-abe7-4ba5-b401-2687ce87140e
+
 ## 2. Project Structure
 
 taskmanager/
@@ -104,9 +107,6 @@ taskmanager/
 
 
 ---
-## Need the project demo? u got it! 
-https://github.com/user-attachments/assets/173f45ef-abe7-4ba5-b401-2687ce87140e
-
 
 ## 3. Screenshots
  ## 1. LOGIN PAGE 
