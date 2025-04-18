@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/16f8bd94-bcca-4a96-98bd-c0e898cbea49)# INDPRO Task Manager
+# INDPRO Task Manager
 
 A clean, modern Django-based Task Manager application with authentication, dashboards, and task management features , and CRUD operations.
 
@@ -68,8 +68,29 @@ indpro-task-manager/
 
 
 ## 📸 Screenshots
- #LOGIN PAGE 
+ ## LOGIN PAGE 
 ![1](https://github.com/user-attachments/assets/49d8a9e8-0590-4165-9b8d-515b99f6a950)
+
+## SignUp page
+![2](https://github.com/user-attachments/assets/ddd5ba72-1848-4cdb-b220-e630e532ff95)
+
+## Task Page
+![3](https://github.com/user-attachments/assets/80921cec-bb2e-4c20-98c8-a96b25c05744)
+
+## Create task
+![4](https://github.com/user-attachments/assets/243a78cd-9f16-46a6-85d2-6488d2b7c626)
+
+## Dashboard
+![5](https://github.com/user-attachments/assets/255739b5-d1ce-4b1c-8151-3fc17e62cd21)
+
+## Admin Page
+![6](https://github.com/user-attachments/assets/21159f10-c492-47d5-8e9b-87876e0f4072)
+
+
+
+
+
+
 
 
 ---
