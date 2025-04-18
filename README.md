@@ -23,7 +23,8 @@ Follow these steps to set up the project :
  
     ## Run the commands
  ```bash
- git clone [ https://github.com/punithcsvp/task_manager.git ] ```
+ git clone [ https://github.com/punithcsvp/task_manager.git ]
+ ```
 
  - cd taskmanager
 
