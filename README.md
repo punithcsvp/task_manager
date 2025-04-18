@@ -23,8 +23,8 @@ Follow these steps to set up the project :
 
 **Windows :**
 
--> python -m venv env
--> env\Scripts\activate
+-- python -m venv env
+-- env\Scripts\activate
 
 **macOS / Linux:**
 
