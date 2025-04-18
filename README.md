@@ -122,7 +122,7 @@ taskmanager/
 ![5](https://github.com/user-attachments/assets/255739b5-d1ce-4b1c-8151-3fc17e62cd21)
 
 ## 6. Admin Page
-![6](https://github.com/user-attachments/assets/21159f10-c492-47d5-8e9b-87876e0f4072)
+![10](https://github.com/user-attachments/assets/def9c7a1-8fb5-43d0-a79d-905520d7373c)
 
 
 ## 4. Assumptions Made During Development
