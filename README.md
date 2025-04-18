@@ -21,34 +21,37 @@ Follow these steps to set up the project :
 ### 1️⃣ Clone the Repository
  -> Go to your command Prompt :
  
-    ## Run the commands
+   - Run the commands
  ```bash
  git clone [ https://github.com/punithcsvp/task_manager.git ]
  ```
-
+```bash
  - cd taskmanager
-
+```
 ### 2️⃣ Create a Virtual Environment
 
 **Windows :**
 
-- python -m venv myenv
-- myenv\Scripts\activate
-
+```bash python -m venv myenv
+   myenv\Scripts\activate
+```
 **macOS / Linux :**
 
-- python3 -m venv env
-- source env/bin/activate
-
+```bash
+ python3 -m venv env
+ source env/bin/activate
+```
 ### 3️⃣ Install Dependencies
 
 once the virtual envirnoment is activated ,run this command
-- pip install django
-
+```bash
+pip install django
+```
 ###  4️⃣ Run the Development Server
 
-- python manage.py runserver
-
+```bash
+ python manage.py runserver
+```
 Open your browser and visit http://127.0.0.1:8000/ 🎉
 
 ---
