@@ -26,6 +26,9 @@ Follow these steps to set up the project :
  git clone https://github.com/punithcsvp/task_manager.git 
  ```
 ```bash
+ cd task_manager
+```
+```bash
  cd taskmanager
 ```
 ### 2️⃣ Create a Virtual Environment
