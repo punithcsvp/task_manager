@@ -59,24 +59,39 @@ Open your browser and visit http://127.0.0.1:8000/ 🎉
 
 ## 📂 Project Structure
 
-indpro-task-manager/
-├── manage.py
-├── requirements.txt
-├── README.md
-├── db.sqlite3
+taskmanager/
+├── taskmanager/
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+│
 ├── tasks/
 │   ├── migrations/
 │   ├── static/
+│   │   └── css/
+│   │       └── styles.css
 │   ├── templates/
+│   │   ├── tasks/
+│   │   │   ├── base.html
+│   │   │   ├── dashboard.html
+│   │   │   ├── login.html
+│   │   │   ├── signup.html
+│   │   │   ├── task_form.html
+│   │   │   ├── task_list.html
+│   │   │   └── view_task.html
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
 │   ├── models.py
-│   ├── views.py
+│   ├── tests.py
 │   ├── urls.py
-│   └── ...
-├── indpro_task_manager/
-│   ├── settings.py
-│   ├── urls.py
-│   └── 
-└── ...
+│   └── views.py
+│
+├── db.sqlite3
+└── manage.py
+
 
 ---
 
