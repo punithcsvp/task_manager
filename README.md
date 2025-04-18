@@ -28,21 +28,15 @@ Follow these steps to set up the project :
 
 **macOS / Linux:**
 
-python3 -m venv env
-source env/bin/activate
+-> python3 -m venv env
+-> source env/bin/activate
 
 ### 3️⃣ Install Dependencies
 
-pip install -r requirements.txt
+once the virtual envirnoment is activated ,run this command
+-> pip install django
 
-> If you don't have a `requirements.txt`, you can create one:
-pip freeze > requirements.txt
-
-### 4️⃣ Apply Migrations
-
-python manage.py migrate
-
-### 5️⃣ Run the Development Server
+###  4️⃣ Run the Development Server
 
 python manage.py runserver
 
@@ -68,21 +62,11 @@ indpro-task-manager/
 ├── indpro_task_manager/
 │   ├── settings.py
 │   ├── urls.py
-│   └── ...
+│   └── 
 └── ...
 
 ---
 
-## 🔐 Environment Variables (Optional)
-
-If needed, create a `.env` file for secret keys and settings:
-
-SECRET_KEY=your-secret-key
-DEBUG=True
-
-You can load these using `python-decouple` or similar packages.
-
----
 
 ## 📸 Screenshots
 
