@@ -18,16 +18,14 @@ Follow these steps to set up the project :
  - git clone [ https://github.com/punithcsvp/task_manager.git ]
  - cd taskmanager
 
-### 2️⃣ Create a Virtual Environment
-![Uploading image.png…]()
-
+### 2️⃣ Create a Virtual Environmen
 
 **Windows :**
 
 - python -m venv env
 - env\Scripts\activate
 
-**macOS / Linux:**
+**macOS / Linux :**
 
 - python3 -m venv env
 - source env/bin/activate
@@ -70,8 +68,9 @@ indpro-task-manager/
 
 
 ## 📸 Screenshots
+ #LOGIN PAGE 
+![1](https://github.com/user-attachments/assets/49d8a9e8-0590-4165-9b8d-515b99f6a950)
 
-*(Add screenshots of your login page, dashboard, and task list here)*
 
 ---
 
