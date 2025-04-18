@@ -1,4 +1,4 @@
-# INDPRO Task Manager
+![image](https://github.com/user-attachments/assets/16f8bd94-bcca-4a96-98bd-c0e898cbea49)# INDPRO Task Manager
 
 A clean, modern Django-based Task Manager application with authentication, dashboards, and task management features , and CRUD operations.
 
@@ -19,6 +19,8 @@ Follow these steps to set up the project :
  - cd taskmanager
 
 ### 2️⃣ Create a Virtual Environment
+![Uploading image.png…]()
+
 
 **Windows :**
 
