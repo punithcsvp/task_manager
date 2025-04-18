@@ -22,7 +22,8 @@ Follow these steps to set up the project :
  -> Go to your command Prompt :
  
     ## Run the commands
-## rur the command git clone [ https://github.com/punithcsvp/task_manager.git ]
+ '''bash
+ git clone [ https://github.com/punithcsvp/task_manager.git ]
  - cd taskmanager
 
 ### 2️⃣ Create a Virtual Environment
