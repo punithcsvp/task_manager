@@ -107,10 +107,10 @@ taskmanager/
 
 ## 3. Screenshots
  ## 1. LOGIN PAGE 
-![1](https://github.com/user-attachments/assets/49d8a9e8-0590-4165-9b8d-515b99f6a950)
+![8](https://github.com/user-attachments/assets/c30a7120-6c35-4bd6-a965-776e112cf876)
 
 ## 2. SignUp page
-![2](https://github.com/user-attachments/assets/ddd5ba72-1848-4cdb-b220-e630e532ff95)
+![9](https://github.com/user-attachments/assets/9e6464a6-07d9-400b-8069-af9528a8ed38)
 
 ## 3. Task Page
 ![3](https://github.com/user-attachments/assets/80921cec-bb2e-4c20-98c8-a96b25c05744)
