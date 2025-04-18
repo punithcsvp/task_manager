@@ -4,6 +4,9 @@ A clean, modern Django-based Task Manager application with authentication, dashb
 
 ![Demo Preview]
 (./taskmanager/taskmanager/demo.gif)
+
+![Demo Preview](https://raw.githubusercontent.com/punithcsvp/taskmanager/taskmanager/taskmanager//demo.gif)
+
 ##  Features
 
 - User Signup / Login / Logout
