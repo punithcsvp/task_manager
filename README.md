@@ -24,6 +24,10 @@ Follow these steps to set up the project :
  ## Go to your command Prompt :
  
    - Run the commands
+   - Make sure you have git installed — you can check by running
+     ```bash
+      git --version
+     ```
  ```bash
  git clone https://github.com/punithcsvp/task_manager.git  
  ```
