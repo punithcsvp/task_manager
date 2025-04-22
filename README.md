@@ -23,8 +23,8 @@ Follow these steps to set up the project :
 ### 1️⃣ Clone the Repository
  ## Go to your command Prompt :
  
-   - Run the commands
    - Make sure you have git installed — you can check by running   ' git --version '
+   - Run the commands
  ```bash
  git clone https://github.com/punithcsvp/task_manager.git  
  ```
